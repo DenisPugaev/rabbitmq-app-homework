@@ -1,4 +1,4 @@
-package org.example;
+package ru.gb.app.producer;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
